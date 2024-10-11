@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-js-inserindo-imagens_node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start -w --server ."
+  },
+  "keywords": [],
+  "author": "@imxandx",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": "v20.12.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3"
+  }
+}
